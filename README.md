@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
+# Nome: Alexander Lira
+# E-mail: abl3@cesar.school
